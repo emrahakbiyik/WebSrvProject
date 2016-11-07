@@ -18,7 +18,7 @@ namespace SoketClient
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Devam için \"Space\'e basınız...");
+            Console.WriteLine("Devam için \"b tuşu ardından enter\'e basınız...");
             string command = "";
             while (command != "q")
             {
